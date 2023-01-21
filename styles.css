@@ -62,7 +62,6 @@ h1 {
     grid-row-start: 7;
     grid-row-end: 9;
   }
-<<<<<<< HEAD
   .read{
     position: absolute;
     z-index: 2;
@@ -73,11 +72,3 @@ h1 {
     font-size: 42px;
     line-height: 51px;
   }
-=======
-p{
-  z-index: 10;
-  position: relative;
-  bottom: 0;
-  right: 0;
-}
->>>>>>> 7b7ff4c655ab6c8a52e359a48559a1ad638e2d84
