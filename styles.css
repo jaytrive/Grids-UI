@@ -55,8 +55,20 @@ h1 {
     grid-row-end: 9;
   }
   .photo-gallery-7 {
+    position: relative;
+    z-index: 1;
     grid-column-start: 5;
     grid-column-end: 9;
     grid-row-start: 7;
     grid-row-end: 9;
+  }
+  .read{
+    position: absolute;
+    z-index: 2;
+    right: 0;
+    bottom: 12px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 51px;
   }
